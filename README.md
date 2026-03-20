@@ -1,8 +1,12 @@
 # Hi there, I'm Kamesh Ravichandran 👋
 
-### 2nd Year CSE (AIML) Student · Freelancer & Developer · Founder of AJ STUDIOZ
+### 2nd Year CSE (AIML) · Freelance Developer · Founder of AJ STUDIOZ
 
-I'm a Computer Science student specializing in AI & ML at Sona College of Technology, Salem. I love building clean, modern web applications and real-world tools. From beginner projects to full-stack products — always learning, always shipping. 🚀
+I'm a Computer Science student specializing in AI & ML at Sona College of Technology, Salem, with hands-on experience building full-stack web applications and real-world products.
+
+Beyond academics, I run **AJ STUDIOZ** — a dev studio where I take on freelance projects ranging from business websites and landing pages to complete web applications with payment integrations and AI-powered automation workflows (n8n).
+
+Always learning, always shipping. 🚀
 
 ---
 
@@ -58,12 +62,18 @@ B.E. Computer Science & Engineering (AI & ML) · 2024 – 2028
 **Payments & Automation**
 
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Dodo Payments](https://img.shields.io/badge/Dodo_Payments-FF6B35?style=for-the-badge&logo=cash&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-**Tools**
+**Tools & IDEs**
 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logo=wind&logoColor=white)
+![Anygravity](https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
