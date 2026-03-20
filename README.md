@@ -1,18 +1,25 @@
-# Hi there, I'm Kamesh 👋
+# Hi there, I'm Kamesh Ravichandran 👋
 
-### Freelancer & Developer · Founder of AJ STUDIOZ
+### 2nd Year CSE (AIML) Student · Freelancer & Developer · Founder of AJ STUDIOZ
 
-I'm a passionate developer who loves building clean, modern web applications and tools. Always exploring new technologies and turning ideas into real products.
+I'm a Computer Science student specializing in AI & ML at Sona College of Technology, Salem. I love building clean, modern web applications and real-world tools. From beginner projects to full-stack products — always learning, always shipping. 🚀
+
+---
+
+## 🎓 Education
+
+**Sona College of Technology, Salem**
+B.E. Computer Science & Engineering (AI & ML) · 2024 – 2028
 
 ---
 
 ## 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamesh14151)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamesh-ravichandran-9723b6326)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thekamesh_zero6)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/DF3UDZJQ4N3VH1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ajcompany.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kameshravichandran-9723b6326)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919385718659)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfilo-three-pied.vercel.app)
 
 ---
 
@@ -45,6 +52,8 @@ I'm a passionate developer who loves building clean, modern web applications and
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Payments & Automation**
 
@@ -55,6 +64,13 @@ I'm a passionate developer who loves building clean, modern web applications and
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🏅 Certifications
+
+- 🎖️ Responsive Web Design — freeCodeCamp
+- ☁️ AWS Academy Graduate — Generative AI Foundations
 
 ---
 
@@ -75,10 +91,11 @@ I'm a passionate developer who loves building clean, modern web applications and
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [AJ STUDIOZ](https://ajcompany.me) | Official agency website | React, Tailwind, Vite |
+| [AJ STUDIOZ](https://ajstudioz.com) | Official agency website | React, Tailwind, Vite |
 | [Zayathon](https://zayathon-website-for-hackathon.vercel.app) | Hackathon hub website | React, Supabase, Framer Motion |
 | [Byte LLMs](https://github.com/kamesh14151) | Pricing & checkout app | Next.js, Dodo Payments |
 | [MVK Transports](https://github.com/kamesh14151) | Transport service website | HTML, CSS, JS |
+| [Age Calculator](https://github.com/kamesh14151/KAMESHAJ) | My first ever project! | HTML, CSS, JS |
 
 ---
 
